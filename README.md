@@ -1,4 +1,4 @@
-Shernaz
+name repository: first_project
 
 date of creation: 04.05.2021
 
