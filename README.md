@@ -10,5 +10,18 @@ author: Nazaraliev Shernaz
 2. Изображение
 3. Блок случайного кода (неважно, на каком языке и что он делает, это может быть даже псевдокод)
 
+<h1> Заголовок 1 </h1>
+<h3> Заголовок 2 </h3>
 
 ![2-500x500](https://user-images.githubusercontent.com/79134498/116970134-1622a680-acc0-11eb-96fc-31381cc233b7.jpg)
+
+```
+void add(Int& A, Int& B) {
+	cout << " Вводите данные класса A = "; int long long x; cin >> x;
+	Int tmp(x);
+	A = tmp;
+	cout << " Вводите данные класса B = "; int long long x2; cin >> x2;
+	Int tmp2(x2);
+	B = tmp2;
+}
+```
