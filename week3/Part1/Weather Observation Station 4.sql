@@ -1,1 +1,0 @@
-Select count(*)-count(distinct(CITY)) from STATION;

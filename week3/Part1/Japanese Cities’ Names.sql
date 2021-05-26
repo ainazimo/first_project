@@ -1,1 +1,0 @@
-Select NAME from CITY where COUNTRYCODE ="JPN";
