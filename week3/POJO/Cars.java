@@ -23,6 +23,62 @@ public class Cars {
         this.price = price;
     }
 
+    public long getID() {
+        return ID;
+    }
+
+    public String getMark() {
+        return mark;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public String getColor() {
+        return color;
+    }
+
+    public String getEngineVolume() {
+        return engineVolume;
+    }
+
+    public String getTransferType() {
+        return transferType;
+    }
+
+    public BigDecimal getPrice() {
+        return price;
+    }
+
+    public void setID(long ID) {
+        this.ID = ID;
+    }
+
+    public void setMark(String mark) {
+        this.mark = mark;
+    }
+
+    public void setType(String type) {
+        this.type = type;
+    }
+
+    public void setColor(String color) {
+        this.color = color;
+    }
+
+    public void setEngineVolume(String engineVolume) {
+        this.engineVolume = engineVolume;
+    }
+
+    public void setTransferType(String transferType) {
+        this.transferType = transferType;
+    }
+
+    public void setPrice(BigDecimal price) {
+        this.price = price;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
